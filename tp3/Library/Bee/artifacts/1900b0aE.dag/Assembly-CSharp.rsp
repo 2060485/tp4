@@ -423,6 +423,9 @@
 "Assets/Scripts/KeyScript.cs"
 "Assets/Scripts/MazeDoor.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/tp5/AI.cs"
+"Assets/Scripts/tp5/GameEnvironment.cs"
+"Assets/Scripts/tp5/State.cs"
 -langversion:9.0
 /deterministic
 /optimize+

@@ -68,11 +68,14 @@
     <Compile Include="Assets\Scripts\KeyScript.cs" />
     <Compile Include="Assets\Scripts\HealthBar.cs" />
     <Compile Include="Assets\Scripts\ExitDoor.cs" />
+    <Compile Include="Assets\Scripts\tp5\GameEnvironment.cs" />
+    <Compile Include="Assets\Scripts\tp5\State.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Image Effects\Scripts\BilateralBlur.cs" />
     <Compile Include="Assets\Image Effects\Scripts\EdgeDetection.cs" />
     <Compile Include="Assets\Scripts\GainFood.cs" />
     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\tp5\AI.cs" />
     <Compile Include="Assets\Image Effects\Scripts\GaussianBlur.cs" />
     <Compile Include="Assets\Image Effects\Scripts\Posterize.cs" />
     <Compile Include="Assets\Image Effects\Scripts\Pixelate.cs" />
@@ -1142,12 +1145,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
       <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UI">
