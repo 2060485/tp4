@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\Nouveau dossier\\tp3-Mathis-Normand\\tp3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\tp4\\tp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E0AF78-3955-EE4E-8ECF-49C7E408D77E}|Assembly-CSharp.csproj|c:\\users\\2060485\\onedrive - c\u00E9gep marie-victorin\\desktop\\tp4\\tp3\\assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E0AF78-3955-EE4E-8ECF-49C7E408D77E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyFollow.cs",
+              "DocumentMoniker": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\tp4\\tp3\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyFollow.cs",
+              "ToolTip": "C:\\Users\\2060485\\OneDrive - C\u00E9gep Marie-Victorin\\Desktop\\tp4\\tp3\\Assets\\Scripts\\EnemyFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyFollow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:27:54.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
