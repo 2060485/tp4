@@ -31,11 +31,6 @@ public class CountDown : MonoBehaviour
             _EnergyBar.UpdateValue();
             _FoodBar.UpdateValue();
         }
-        Debug.Log("Game over");
-        #if UNITY_EDITOR
-            UnityEditor.EditorApplication.isPlaying = false;  
-        #else 
-            Application.Quit();
-        #endif       
+        
     }
 }

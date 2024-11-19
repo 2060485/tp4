@@ -15,6 +15,12 @@ EditorUserSettings:
       value: 0502020055025e5e555c542412755b4446154e2b2f7b706079284b67e0b2676f
       flags: 0
     RecentlyUsedSceneGuid-3:
+      value: 5b04035354065e035956542311755d44134f48797c7d77647b2d4d6be3b36339
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 50020d520304580b58570e7a49760744411540787a797268787d1936b1b5613b
+      flags: 0
+    RecentlyUsedSceneGuid-5:
       value: 51060107570c5d0b545d5c7a15750c4417164a2b2d2d75637c2c4b37e0b83639
       flags: 0
     lightmappingBakingProfile:
@@ -39,4 +45,3 @@ EditorUserSettings:
   m_VCAllowAsyncUpdate: 1
   m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
-  m_CompressAssetsOnImport: 1

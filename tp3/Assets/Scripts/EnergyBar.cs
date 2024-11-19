@@ -31,15 +31,11 @@ public class EnergyBar : MonoBehaviour
     }
 
     public void UpdateValue() {
-        Val-=3;
+        Val-=1;
         txt.text = Val + "%"; // Changed from txt.Text to txt.text
         bar.fillAmount = Val / 100;
         if(Val<=0){
-            #if UNITY_EDITOR
-                UnityEditor.EditorApplication.isPlaying = false;  
-            #else 
-                Application.Quit();
-            #endif       
+            
         }
         if(Val<=alert){
             bar.color = AlertColor;
